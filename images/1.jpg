@@ -1,0 +1,502 @@
+<!DOCTYPE html>
+<!-- saved from url=(0101)https://p.w3layouts.com/demos_new/template_demo/28-02-2019/reaping-demo_Free/614071872/web/index.html -->
+<html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Reaping Agriculture Category Flat Bootstrap Responsive Website Template | Home : W3layouts</title>
+	<!-- Meta tag Keywords -->
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	
+	<meta name="keywords" content="Reaping Responsive web template, Bootstrap Web Templates, Flat Web Templates, Android Compatible web template, 
+	Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, SonyEricsson, Motorola web design">
+	<script type="application/x-javascript">
+		addEventListener("load", function () {
+			setTimeout(hideURLbar, 0);
+		}, false);
+
+		function hideURLbar() {
+			window.scrollTo(0, 1);
+		}
+	</script>
+	<!--// Meta tag Keywords -->
+    <!-- css files -->
+	<link rel="stylesheet" href="./1_files/bootstrap.css"> <!-- Bootstrap-Core-CSS -->
+	<link rel="stylesheet" href="./1_files/style.css" type="text/css" media="all"> <!-- Style-CSS --> 
+	<link rel="stylesheet" href="./1_files/fontawesome-all.css"> <!-- Font-Awesome-Icons-CSS -->
+	<!-- //css files -->
+	<!--web font-->
+	  <link href="./1_files/css" rel="stylesheet">
+	<!--//web font-->
+<div id="_bsa_srv-CKYI627U_0"></div><div id="_bsa_srv-CKYI653J_1"></div><meta http-equiv="origin-trial" content="AymqwRC7u88Y4JPvfIF2F37QKylC04248hLCdJAsh8xgOfe/dVJPV3XS3wLFca1ZMVOtnBfVjaCMTVudWM//5g4AAAB7eyJvcmlnaW4iOiJodHRwczovL3d3dy5nb29nbGV0YWdtYW5hZ2VyLmNvbTo0NDMiLCJmZWF0dXJlIjoiUHJpdmFjeVNhbmRib3hBZHNBUElzIiwiZXhwaXJ5IjoxNjk1MTY3OTk5LCJpc1RoaXJkUGFydHkiOnRydWV9"></head>
+<body>
+<script src="./1_files/monetization.js.download" type="text/javascript"></script>
+<script>
+(function(){
+	if(typeof _bsa !== 'undefined' && _bsa) {
+  		// format, zoneKey, segment:value, options
+  		_bsa.init('flexbar', 'CKYI627U', 'placement:w3layoutscom');
+  	}
+})();
+</script>
+<script>
+(function(){
+if(typeof _bsa !== 'undefined' && _bsa) {
+	// format, zoneKey, segment:value, options
+	_bsa.init('fancybar', 'CKYDL2JN', 'placement:demo');
+}
+})();
+</script>
+<script>
+(function(){
+	if(typeof _bsa !== 'undefined' && _bsa) {
+  		// format, zoneKey, segment:value, options
+  		_bsa.init('stickybox', 'CKYI653J', 'placement:w3layoutscom');
+  	}
+})();
+</script>
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async="" src="./1_files/js"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-98H8KRKT85');
+</script>
+
+<meta name="robots" content="noindex">
+<link rel="stylesheet" href="./1_files/font-awesome.min.css">
+<!-- New toolbar-->
+<style>
+* {
+  box-sizing: border-box;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif;
+}
+
+
+#w3lDemoBar.w3l-demo-bar {
+  top: 0;
+  right: 0;
+  bottom: 0;
+  z-index: 9999;
+  padding: 40px 5px;
+  padding-top:70px;
+  margin-bottom: 70px;
+  background: #0D1326;
+  border-top-left-radius: 9px;
+  border-bottom-left-radius: 9px;
+}
+
+#w3lDemoBar.w3l-demo-bar a {
+  display: block;
+  color: #e6ebff;
+  text-decoration: none;
+  line-height: 24px;
+  opacity: .6;
+  margin-bottom: 20px;
+  text-align: center;
+}
+
+#w3lDemoBar.w3l-demo-bar span.w3l-icon {
+  display: block;
+}
+
+#w3lDemoBar.w3l-demo-bar a:hover {
+  opacity: 1;
+}
+
+#w3lDemoBar.w3l-demo-bar .w3l-icon svg {
+  color: #e6ebff;
+}
+#w3lDemoBar.w3l-demo-bar .responsive-icons {
+  margin-top: 30px;
+  border-top: 1px solid #41414d;
+  padding-top: 40px;
+}
+#w3lDemoBar.w3l-demo-bar .demo-btns {
+  border-top: 1px solid #41414d;
+  padding-top: 30px;
+}
+#w3lDemoBar.w3l-demo-bar .responsive-icons a span.fa {
+  font-size: 26px;
+}
+#w3lDemoBar.w3l-demo-bar .no-margin-bottom{
+  margin-bottom:0;
+}
+.toggle-right-sidebar span {
+  background: #0D1326;
+  width: 50px;
+  height: 50px;
+  line-height: 50px;
+  text-align: center;
+  color: #e6ebff;
+  border-radius: 50px;
+  font-size: 26px;
+  cursor: pointer;
+  opacity: .5;
+}
+.pull-right {
+  float: right;
+  position: fixed;
+  right: 0px;
+  top: 70px;
+  width: 90px;
+  z-index: 99999;
+  text-align: center;
+}
+/* ============================================================
+RIGHT SIDEBAR SECTION
+============================================================ */
+
+#right-sidebar {
+  width: 90px;
+  position: fixed;
+  height: 100%;
+  z-index: 1000;
+  right: 0px;
+  top: 0;
+  margin-top: 60px;
+  -webkit-transition: all .5s ease-in-out;
+  -moz-transition: all .5s ease-in-out;
+  -o-transition: all .5s ease-in-out;
+  transition: all .5s ease-in-out;
+  overflow-y: auto;
+}
+
+
+/* ============================================================
+RIGHT SIDEBAR TOGGLE SECTION
+============================================================ */
+
+.hide-right-bar-notifications {
+  margin-right: -300px !important;
+  -webkit-transition: all .3s ease-in-out;
+  -moz-transition: all .3s ease-in-out;
+  -o-transition: all .3s ease-in-out;
+  transition: all .3s ease-in-out;
+}
+
+
+
+@media (max-width: 992px) {
+  #w3lDemoBar.w3l-demo-bar a.desktop-mode{
+      display: none;
+
+  }
+}
+@media (max-width: 767px) {
+  #w3lDemoBar.w3l-demo-bar a.tablet-mode{
+      display: none;
+
+  }
+}
+@media (max-width: 568px) {
+  #w3lDemoBar.w3l-demo-bar a.mobile-mode{
+      display: none;
+  }
+  #w3lDemoBar.w3l-demo-bar .responsive-icons {
+      margin-top: 0px;
+      border-top: none;
+      padding-top: 0px;
+  }
+  #right-sidebar,.pull-right {
+      width: 90px;
+  }
+  #w3lDemoBar.w3l-demo-bar .no-margin-bottom-mobile{
+      margin-bottom: 0;
+  }
+}
+</style>
+<div class="pull-right toggle-right-sidebar">
+<span class="fa title-open-right-sidebar tooltipstered fa-angle-double-right"></span>
+</div>
+
+<div id="right-sidebar" class="right-sidebar-notifcations nav-collapse">
+<div class="bs-example bs-example-tabs right-sidebar-tab-notification" data-example-id="togglable-tabs">
+
+    <div id="w3lDemoBar" class="w3l-demo-bar">
+        <div class="demo-btns">
+        <a href="https://w3layouts.com/?p=42202">
+            <span class="w3l-icon -back">
+                <span class="fa fa-arrow-left"></span>
+            </span>
+            <span class="w3l-text">Back</span>
+        </a>
+        <a href="https://w3layouts.com/?p=42202">
+            <span class="w3l-icon -download">
+                <span class="fa fa-download"></span>
+            </span>
+            <span class="w3l-text">Download</span>
+        </a>
+        <a href="https://w3layouts.com/checkout/?add-to-cart=42202" class="no-margin-bottom-mobile">
+            <span class="w3l-icon -buy">
+                <span class="fa fa-shopping-cart"></span>
+            </span>
+            <span class="w3l-text">Buy</span>
+        </a>
+    </div>
+        <!---<div class="responsive-icons">
+            <a href="#url" class="desktop-mode">
+                <span class="w3l-icon -desktop">
+                    <span class="fa fa-desktop"></span>
+                </span>
+            </a>
+            <a href="#url" class="tablet-mode">
+                <span class="w3l-icon -tablet">
+                    <span class="fa fa-tablet"></span>
+                </span>
+            </a>
+            <a href="#url" class="mobile-mode no-margin-bottom">
+                <span class="w3l-icon -mobile">
+                    <span class="fa fa-mobile"></span>
+                </span>
+            </a>
+        </div>-->
+    </div>
+    <div class="right-sidebar-panel-content animated fadeInRight" tabindex="5003" style="overflow: hidden; outline: none;">
+    </div>
+</div>
+</div>
+
+
+<header>	
+	<nav class="mnu">
+		<div class="container">
+            <div class="logo" id="logo">
+                <h1><a href="https://p.w3layouts.com/demos_new/template_demo/28-02-2019/reaping-demo_Free/614071872/web/index.html">Reaping</a></h1>
+            </div>
+				<label for="drop" class="toggle"><span class="fa fa-bars"></span></label>
+                <input type="checkbox" id="drop">
+                    <ul class="menu mt-1">
+                        <li class="mr-lg-4 mr-3 active"><a href="https://p.w3layouts.com/demos_new/template_demo/28-02-2019/reaping-demo_Free/614071872/web/index.html">Home</a></li>
+						<li class="mr-lg-4 mr-3"><a href="https://p.w3layouts.com/demos_new/template_demo/28-02-2019/reaping-demo_Free/614071872/web/index.html#services" class="scroll">Services</a></li>
+                        <li class="mr-lg-4 mr-3"><a href="https://p.w3layouts.com/demos_new/template_demo/28-02-2019/reaping-demo_Free/614071872/web/index.html#about" class="scroll">About</a></li>
+						<li class="mr-lg-4 mr-3"><a href="https://p.w3layouts.com/demos_new/template_demo/28-02-2019/reaping-demo_Free/614071872/web/index.html#news" class="scroll">News</a></li>
+                        <li><a href="https://p.w3layouts.com/demos_new/template_demo/28-02-2019/reaping-demo_Free/614071872/web/index.html#contact" class="scroll">Contact</a></li>
+                    </ul>
+		</div>
+    </nav>
+</header>
+<!-- banner -->
+<div class="banner">
+	<div class="agile_banner_info">
+		<div class="row banner_agile_para">
+			<div class="col-lg-9 ban-text">
+				<h2>Nulla viverra pharetra sem, eget pulvinar neque</h2>
+			</div>	
+			<div class="col-lg-3 ban-buton">
+				<a href="https://p.w3layouts.com/demos_new/template_demo/28-02-2019/reaping-demo_Free/614071872/web/index.html#services" data-toggle="modal" data-target="#exampleModalCenter" role="button"> Read More </a>
+			</div>
+		</div>	
+	</div>
+</div>
+<!-- //banner -->	
+ <!-- what we do -->
+ <!---728x90--->
+
+	 <section class="wedo py-5" id="services">
+		<div class="container py-lg-5">
+			<div class="w3l_head1">
+				<h4 class="heading text-center"> Services</h4>
+				<p class="subs1 mt-4 text-center mx-auto">Integer porttitor mollisar lorem, at molestie arcu pulvinar ut</p>
+			</div>
+			<div class="row about-info-grids text-center py-lg-5 py-3 mt-3">
+							<div class="col-md-4 about-info about-info1">
+								<span class="fa fa-tint"></span>
+								<h4>Sit amet</h4>
+								<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore.</p>
+							</div>
+							<div class="col-md-4 about-info about-info2">
+								<span class="fa fa-leaf"></span>
+								<h4>Adipisicing</h4>
+								<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore.</p>
+							</div>
+							<div class="col-md-4 about-info about-info3">
+								<span class="fa fa-pagelines"></span>
+								<h4>Dolor sit</h4>
+								<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore.</p>
+							</div>
+					</div>
+	 </div>
+	</section>
+	 <!-- //what we do -->
+	 <!---728x90--->
+<!-- news -->
+	<section class="news py-5" id="about">
+		<div class="container py-lg-5">
+			<div class="w3l_head">
+				<h3 class="heading text-center">About Us</h3>
+				<p class="subs mt-4 text-center mx-auto">Integer porttitor mollisar lorem, at molestie arcu pulvinar ut</p>
+			</div>		
+				<div class="row news-grids py-lg-5 py-3 mt-3 text-center">
+						<div class="col-md-4 newsgrid1">
+							<img src="./1_files/g1.jpg" alt="news image" class="img-fluid">
+							<div class="news_btm mt-4">
+								<h6>Etiam eu ante risus</h6>
+								<p>Praesent semper </p>
+							</div>
+						</div>
+						<div class="col-md-4 mt-md-0 mt-5 newsgrid2">
+							<img src="./1_files/g2.jpg" alt="news image" class="img-fluid">
+							<div class="news_btm mt-4">
+								<h6>Etiam eu ante risus</h6>
+								<p>Praesent semper </p>
+							</div>
+						</div>
+						<div class="col-md-4  mt-md-0 mt-5 newsgrid3">
+							<img src="./1_files/g3.jpg" alt="news image" class="img-fluid">
+							<div class="news_btm mt-4">
+								<h6>Etiam eu ante risus</h6>
+								<p>Praesent semper </p>
+							</div>
+						</div>
+				</div>
+			<p class="text-center">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore.Nulla pellentesque mi non laoreet eleifend. Integer porttitor mollisar lorem, at molestie arcu pulvinar ut. Proin ac fermentum est.</p>
+		</div>
+	</section>
+<!-- //news -->
+<!---728x90--->
+<!-- news-bottom -->
+<section class="news-bottom py-5">
+	<div class="container py-lg-5">
+		<div class="newsgrid1 text-center">
+			<div class="w3l_head1">
+				<h4 class="heading text-center"> porttitor mollisar lorem</h4>
+				<p class="subs1 mt-4 text-center mx-auto">Integer porttitor mollisar lorem, at molestie arcu pulvinar ut</p>
+			</div>
+			<p class="mt-4">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore.Nulla pellentesque mi non laoreet eleifend. Integer porttitor mollisar lorem, at molestie arcu pulvinar ut. Proin ac fermentum est. Nulla pellentesque mi non laoreet eleifend. Integer porttitor mollisar lorem, at molestie arcu pulvinar ut. pellentesque mi non laoreet eleifend porttitor mollisar</p>
+		</div>
+			
+		
+	</div>
+</section>
+<!-- //news-bottom -->
+<!-- blog -->	
+<section class="blog_w3l py-5" id="news">
+	<div class="container py-lg-5">
+			<div class="w3l_head">
+				<h4 class="heading text-center">Our News</h4>
+				<p class="subs mt-4 text-center mx-auto">Integer porttitor mollisar lorem, at molestie arcu pulvinar ut</p>
+			</div>
+		<div class="row blog_w3l_top py-lg-5 py-3 mt-3 ">
+			<div class="col-lg-6 blog_w3l_left">
+				<div class="row blog_w3l_left1">
+					<div class="col-md-5 blog_w3l-1">
+						<img src="./1_files/g4.jpg" alt="news image" class="img-fluid">
+					</div>
+					<div class="col-md-7 blog_w3l-2">
+						
+						<h3>pellentesque mi non</h3>
+						<p class="mt-3">Nulla pellentesque mi non laoreet eleifend. Integer porttitor mollisar lorem, at molestie arcu pulvinar ut.</p>
+					</div>
+				</div>
+				<div class="row blog_w3l_left2">
+					<div class="col-md-5 blog_w3l-1">
+						<img src="./1_files/g5.jpg" alt="news image" class="img-fluid">
+					</div>
+					<div class="col-md-7 blog_w3l-2">
+						
+						<h3>pellentesque mi non</h3>
+						<p class="mt-3">Nulla pellentesque mi non laoreet eleifend. Integer porttitor mollisar lorem, at molestie arcu pulvinar ut.</p>
+					</div>
+				</div>
+				
+			</div>
+			<div class="col-lg-6 blog_w3l_right">
+				<div class="row blog_w3l_left1">
+					<div class="col-md-5 blog_w3l-1">
+						<img src="./1_files/g6.jpg" alt="news image" class="img-fluid">
+					</div>
+					<div class="col-md-7 blog_w3l-2">
+						
+						<h3>pellentesque mi non</h3>
+						<p class="mt-3">Nulla pellentesque mi non laoreet eleifend. Integer porttitor mollisar lorem, at molestie arcu pulvinar ut.</p>
+					</div>
+				</div>
+				<div class="row blog_w3l_left2">
+					<div class="col-md-5 blog_w3l-1">
+						<img src="./1_files/g7.jpg" alt="news image" class="img-fluid">
+					</div>
+					<div class="col-md-7 blog_w3l-2">
+						
+						<h3>pellentesque mi non</h3>
+						<p class="mt-3">Nulla pellentesque mi non laoreet eleifend. Integer porttitor mollisar lorem, at molestie arcu pulvinar ut.</p>
+					</div>
+				</div>
+				
+				</div>
+			</div>
+		</div>
+</section>
+	<!-- //blog -->	
+	<!-- foot-1 -->
+	 <section class="foot-1 py-5" id="contact">
+		<div class="container py-lg-5">
+			<div class="row foot-1-top">
+				<div class="col-lg-3 col-md-6 col-sm-6 foot-1_grid_left">
+					<h4 class="mb-3">Pellentesque mi</h4>
+					<div class="foot-top pt-3">
+						<ul>
+							<li><a href="https://p.w3layouts.com/demos_new/template_demo/28-02-2019/reaping-demo_Free/614071872/web/index.html#">Semper mod quisturpis nisi</a></li>
+							<li><a href="https://p.w3layouts.com/demos_new/template_demo/28-02-2019/reaping-demo_Free/614071872/web/index.html#">Semper mod quisturpis nisi</a></li>
+							<li><a href="https://p.w3layouts.com/demos_new/template_demo/28-02-2019/reaping-demo_Free/614071872/web/index.html#">Semper mod quisturpis nisi</a></li>
+							<li><a href="https://p.w3layouts.com/demos_new/template_demo/28-02-2019/reaping-demo_Free/614071872/web/index.html#">Semper mod quisturpis nisi</a></li>
+							<li><a href="https://p.w3layouts.com/demos_new/template_demo/28-02-2019/reaping-demo_Free/614071872/web/index.html#">Semper mod quisturpis nisi</a></li>
+							<li><a href="https://p.w3layouts.com/demos_new/template_demo/28-02-2019/reaping-demo_Free/614071872/web/index.html#">Semper mod quisturpis nisi</a></li>
+							<li><a href="https://p.w3layouts.com/demos_new/template_demo/28-02-2019/reaping-demo_Free/614071872/web/index.html#">Semper mod quisturpis nisi</a></li>
+						</ul>
+					</div>
+				</div>
+				<div class="col-lg-3 col-md-6 col-sm-6 foot-1_grid_middle">
+					<h4 class="mb-3">Pellentesque mi</h4>
+					<div class="foot-top pt-3">
+						<ul>
+							<li><a href="https://p.w3layouts.com/demos_new/template_demo/28-02-2019/reaping-demo_Free/614071872/web/index.html#">Semper mod quisturpis nisi</a></li>
+							<li><a href="https://p.w3layouts.com/demos_new/template_demo/28-02-2019/reaping-demo_Free/614071872/web/index.html#">Semper mod quisturpis nisi</a></li>
+							<li><a href="https://p.w3layouts.com/demos_new/template_demo/28-02-2019/reaping-demo_Free/614071872/web/index.html#">Semper mod quisturpis nisi</a></li>
+							<li><a href="https://p.w3layouts.com/demos_new/template_demo/28-02-2019/reaping-demo_Free/614071872/web/index.html#">Semper mod quisturpis nisi</a></li>
+							<li><a href="https://p.w3layouts.com/demos_new/template_demo/28-02-2019/reaping-demo_Free/614071872/web/index.html#">Semper mod quisturpis nisi</a></li>
+							<li><a href="https://p.w3layouts.com/demos_new/template_demo/28-02-2019/reaping-demo_Free/614071872/web/index.html#">Semper mod quisturpis nisi</a></li>
+							<li><a href="https://p.w3layouts.com/demos_new/template_demo/28-02-2019/reaping-demo_Free/614071872/web/index.html#">Semper mod quisturpis nisi</a></li>
+						</ul>
+					</div>
+				</div>
+				<div class="col-lg-6 foot-1_grid_right">
+					<h4 class="mb-4">Get In Touch</h4>
+					<div class="contact_grid_right mt-5 mx-auto text-left">
+						<form action="https://p.w3layouts.com/demos_new/template_demo/28-02-2019/reaping-demo_Free/614071872/web/index.html#" method="post">
+							<div class="row contact_top">
+								<div class="col-sm-6">
+									<input type="text" name="Name" placeholder="Name" required="">
+								</div>
+								<div class="col-sm-6">
+									<input type="email" name="Email" placeholder="Email" required="">
+								</div>
+							</div>							
+								<textarea name="Message" onfocus="this.value = &#39;&#39;;" onblur="if (this.value == &#39;&#39;) {this.value = &#39;Message...&#39;;}" required="">Message...</textarea>
+								<input type="submit" value="Send Message">
+								
+						</form>
+			</div>
+				</div>
+			</div>
+			
+		</div>
+	</section>
+	<div class="foot_bottom">
+		<div class="container">
+			<div class="cpy-right text-center py-5">
+				<ul class="social_section_1info mb-lg-4">
+					<li><a href="https://p.w3layouts.com/demos_new/template_demo/28-02-2019/reaping-demo_Free/614071872/web/index.html#"><span class="fa fa-facebook"></span></a></li>
+					<li><a href="https://p.w3layouts.com/demos_new/template_demo/28-02-2019/reaping-demo_Free/614071872/web/index.html#"><span class="fa fa-twitter"></span></a></li>
+					<li><a href="https://p.w3layouts.com/demos_new/template_demo/28-02-2019/reaping-demo_Free/614071872/web/index.html#"><span class="fa fa-google"></span></a></li>
+					<li><a href="https://p.w3layouts.com/demos_new/template_demo/28-02-2019/reaping-demo_Free/614071872/web/index.html#"><span class="fa fa-linkedin"></span></a></li>
+				</ul>
+				<p>© 2019 Reaping. All rights reserved | Design by
+					<a href="https://w3layouts.com/"> W3layouts.</a>
+				</p>
+			</div>
+		</div>
+	</div>
+	 <!-- //foot-1 -->
+
+<script>(function(){var js = "window['__CF$cv$params']={r:'817e29543d250dc2',t:'MTY5NzYwNDYzNy4zNDUwMDA='};_cpo=document.createElement('script');_cpo.nonce='',_cpo.src='/cdn-cgi/challenge-platform/scripts/jsd/main.js',document.getElementsByTagName('head')[0].appendChild(_cpo);";var _0xh = document.createElement('iframe');_0xh.height = 1;_0xh.width = 1;_0xh.style.position = 'absolute';_0xh.style.top = 0;_0xh.style.left = 0;_0xh.style.border = 'none';_0xh.style.visibility = 'hidden';document.body.appendChild(_0xh);function handler() {var _0xi = _0xh.contentDocument || _0xh.contentWindow.document;if (_0xi) {var _0xj = _0xi.createElement('script');_0xj.innerHTML = js;_0xi.getElementsByTagName('head')[0].appendChild(_0xj);}}if (document.readyState !== 'loading') {handler();} else if (window.addEventListener) {document.addEventListener('DOMContentLoaded', handler);} else {var prev = document.onreadystatechange || function () {};document.onreadystatechange = function (e) {prev(e);if (document.readyState !== 'loading') {document.onreadystatechange = prev;handler();}};}})();</script><iframe height="1" width="1" style="position: absolute; top: 0px; left: 0px; border: none; visibility: hidden;" src="./1_files/saved_resource.html"></iframe>
+</body></html>
